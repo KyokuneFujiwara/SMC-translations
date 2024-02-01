@@ -4,153 +4,154 @@
         "constants": {
             "1_power-ups": "蘑菇|火力花|狸猫叶|冰力花|小型火力花|泡泡花",
             "2_power-ups": "蘑菇|火力花|狸猫叶|冰力花|小型火力花|泡泡花",
-            "1_map-palettes": "标准/主世界|地底 (深蓝)|城堡(灰)|水下 (深绿)|天空 (浅绿)|冰 (浅蓝)|火山 (红)|鬼屋 (紫)|奖励屋 (黄)",
-            "2_map-palettes": "Standard"
+            "1_map-palettes": "标准/主世界 (棕)|地底 (深蓝)|城堡(灰)|水下 (深绿)|天空 (浅绿)|冰 (浅蓝)|火山 (红)|鬼屋 (紫)|奖励屋 (黄)",
+            "2_map-palettes": "标准"
         },
         "common": {
             "buttons": {
-                "yes": "Yes",
-                "no": "No",
-                "close": "Close",
-                "download": "Download",
-                "next": "Next",
-				"confirm": "Confirm",
-				"cancel": "Cancel",
-				"play": "Play",
-				"load": "Load",
-                "go-back": "Go back",
-                "delete": "Delete",
-                "rename": "Rename",
-                "lock": "Lock",
-                "unlock": "Unlock",
-                "hide": "Hide",
-                "view": "View",
-                "create": "Create",
-                "edit": "Edit",
-                "exit": "Exit"
+                "yes": "是",
+                "no": "否",
+                "close": "关闭",
+                "download": "下载关卡代码",
+                "next": "下一页",
+				"confirm": "确认",
+				"cancel": "取消",
+				"play": "开始关卡",
+				"load": "载入关卡",
+                "go-back": "返回",
+                "delete": "删除",
+                "rename": "重命名",
+                "lock": "锁定",
+                "unlock": "解锁",
+                "hide": "隐藏",
+                "view": "显示",
+                "create": "新建关卡",
+                "edit": "编辑关卡",
+                "exit": "退出"
             },
             "time": {
                 "days": {
-                    "one": "day",
-                    "other": "days"
+                    "one": "天",
+                    "other": "天"
                 },
                 "hours": {
-                    "one": "hour",
-                    "other": "hours"
+                    "one": "小时",
+                    "other": "小时"
                 },
                 "minutes": {
-                    "one": "minute",
-                    "other": "minutes"
+                    "one": "分钟",
+                    "other": "分钟"
                 },
-                "ago": "ago",
+                "ago": "之前",
                 "notation": "{0} {1}"
             },
             "words": {
-                "keyboard": "keyboard",
-                "controller": "controller",
-                "language": "language",
-                "characters": "characters",
-                "decibells": "decibells",
-                "volume": "volume",
-                "name": "name",
-                "custom": "custom",
-                "width": "width",
-                "height": "height",
+                "keyboard": "键盘",
+                "controller": "游戏手柄",
+                "language": "语言",
+                "characters": "角色",
+                "decibells": "分贝",
+                "volume": "音量",
+                "name": "用户名",
+                "custom": "自定义",
+                "width": "宽",
+                "height": "高",
                 "layers": {
-                    "one": "layer",
-                    "other": "layers"
+                    "one": "图层",
+                    "other": "图层"
                 },
                 "effects": {
-                    "one": "effect",
-                    "others": "effects"
+                    "one": "特效",
+                    "others": "特效"
                 },
                 "objects": {
-                    "one": "object",
-                    "other": "objects"
+                    "one": "小物件",
+                    "other": "小物件"
                 },
                 "tiles": {
-                    "one": "tile",
-                    "other": "tiles"
+                    "one": "标题",
+                    "other": "标题"
                 },
                 "destination": {
-                    "one": "destination",
-                    "other": "destinations"
+                    "one": "关卡终点",
+                    "other": "关卡终点"
                 },
                 "entryway": {
-                    "one": "entryway",
-                    "other": "entryways"
+                    "one": "通道入口",
+                    "other": "通道入口"
                 },
                 "maps": {
-                    "one": "map",
-                    "other": "maps"
+                    "one": "地图",
+                    "other": "地图"
                 },
                 "themes": {
-                    "one": "theme",
-                    "other": "themes"
+                    "one": "主题",
+                    "other": "主题"
                 }
             },
             "labels": {
-                "press-again-to-confirm": "Press again to confirm",
-                "press-x-again-to-confirm": "Press {0} again to confirm",
-                "x-settings": "{0} settings",
-                "x-tags": "{0} tags",
-                "active-on-start": "Active on start",
-				"additional-x-settings": "Additional {0} settings",
-                "above-all-layers": "above all layers",
-                "on-layer": "on layer",
-                "puts-player": "Puts player",
-                "warps-to": "Warps to",
-                "this-map": "This map",
-                "new-x-name": "New {0} name",
-                "one-screen": "one screen",
-                "surface-area": "Surface area",
-                "max-tiles": "{0} tiles max",
-                "min-tiles": "Minimum size is {0}",
-                "current-map-size": "Current map size",
-                "select-x": "Select {0}"
+                "press-again-to-confirm": "再次按下以确认",
+                "press-x-again-to-confirm": "再次按下{0}以确认",
+                "x-settings": "{0}设置",
+                "x-tags": "{0}标签",
+                "active-on-start": "关卡起始时触发",
+				"additional-x-settings": "{0} 附加设置",
+                "above-all-layers": "位于所有图层之上",
+                "on-layer": "于此图层",
+                "puts-player": "将玩家放置于",
+                "warps-to": "传送到",
+                "this-map": "此地图",
+                "new-x-name": " {0}的新名称",
+                "one-screen": "单屏",
+                "surface-area": "表层区域",
+                "max-tiles": "尺寸上限为{0}方块",
+                "min-tiles": "尺寸下限为{0}方块",
+                "current-map-size": "当前地图大小",
+                "select-x": "选择 {0}"
             },
             "menu-options": {
-                "default": "Default",
-                "no-power-up": "No power-up",
-				"disabled": "Disabled",
-				"empty": "Empty",
-                "none": "None",
-                "horizontal": "Horizontal",
-                "vertical": "Vertical",
-                "both-axes": "Both axes",
-                "standard": "Standard",
-                "custom-music-url": "Custom music URL",
-                "more-buttons": "More buttons",
-                "reset-to-default": "Reset to default"
+                "default": "默认",
+                "no-power-up": "无补给状态(小马力欧)",
+				"disabled": "禁用",
+				"empty": "空",
+                "none": "无",
+                "horizontal": "水平(x)方向",
+                "vertical": "竖直(y)方向",
+                "both-axes": "xy方向同时",
+                "standard": "标准",
+                "custom-music-url": "自定义BGM外链地址",
+                "more-buttons": "更多按钮",
+                "reset-to-default": "恢复默认配置"
             }
         },
         "title-screen": {
             "buttons": {
-                "play-level": "[scale=0.8]Play level[/scale]",
-                "level-editor": "[scale=0.8]Level Editor[/scale]",
-                "extras": "[scale=0.8]Minigames[/scale][scale=0.5]\n[color=#CCCCCC]Under construction[/color][/scale]"
+                "play-level": "[scale=0.8]开始关卡[/scale]",
+                "level-editor": "[scale=0.8]关卡编辑器[/scale]",
+                "extras": "[scale=0.8]迷你游戏[/scale][scale=0.5]\n[color=#CCCCCC]建设中,敬请期待[/color][/scale]"
             },
             "tooltips": {
-                "join-lss": "Visit Level Share Square!",
-                "lss-yt": "Subscribe to Level Share Square!",
-                "smc-discord": "Join our Discord!"
+                "join-lss": "访问Level Share Square平台",
+                "lss-yt": "关注LSS平台官方Youtube账号",
+                "smc-discord": "加入我们的Discord服务器",
+		"translator-bilibili-account":"翻译作者B站账号"
             }
         },
         "level-select": {
             "labels": {
-                "level-select": "LEVEL SELECT",
-                "pick-gamestyle": "PICK A GAMESTYLE",
-                "pick-theme": "PICK A THEME",
-                "empty-card": "EMPTY LEVEL CARD",
-                "level-name": "Level name",
-                "size-preset": "Size preset"
+                "level-select": "关卡选择",
+                "pick-gamestyle": "请选择需要的游戏风格",
+                "pick-theme": "请选择主题",
+                "empty-card": "空白关卡卡片",
+                "level-name": "关卡名称",
+                "size-preset": "预设尺寸"
             },
             "buttons": {
-                "create-new": "CREATE A NEW LEVEL",
-                "import-code": "IMPORT LEVEL CODE",
-                "compact": "Compact",
-                "production": "Production",
-                "create-level": "Create level!"
+                "create-new": "新建关卡",
+                "import-code": "导入关卡代码",
+                "compact": "压缩",
+                "production": "制作",
+                "create-level": "新建关卡!"
             },
             "tooltips": {
                 "play": "Play",
