@@ -171,33 +171,33 @@
                 "delete-warning": "确认要删除此关卡吗?\n为了确保您还需要游玩或编辑此关卡,我们建议您在电脑中存储此关卡的备份代码。",
                 "code-notice": "您可以将关卡代码与他人分享,让朋友与您一同共享欢悦!同时我们建议您存储关卡代码以备不时之需。",
                 "compact-notice": "压缩代码仅保留您关卡的全部信息,除了仅为关卡设计师保存的数据。",
-                "production-notice": "The production code saves extra data that is handy during level designing, such as what items are in the favorites bar.",
-                "import-code-notice": "Paste a level code here, and the level will be saved within the game. It is still recommended to make regular backups of your level by saving the code on your device and/or on Level Share Square."
+                "production-notice": "创作者代码保留了对于关卡设计更为便捷的一些配置, 例如常用栏中的方块类别。",
+                "import-code-notice": "在此粘贴代码,关卡将在游戏内存储。但是我们仍然建议您在您的设备或LSS平台上做好本地备份，以免无意间删除游戏的缓存。"
             }
         },
         "regular-play": {
             "labels": {
-                "made-by": "Made by",
-                "no-desc": "No description was set for this level.",
-                "time": "TIME"
+                "made-by": "制作",
+                "no-desc": "此关卡无描述。",
+                "time": "时间限制"
             },
             "html": {
-                "level-code-placeholder": "Paste a level code here and press play!"
+                "level-code-placeholder": "在此粘贴代码，然后按下游玩按钮！"
             }
         },
         "toolbar": {
             "bottom-buttons": {
-                "general-tiles": "General tiles",
+                "general-tiles": "主体方块",
                 "tilesets": "Tilesets",
-                "objects": "Objects",
-                "enemies": "Enemies",
-                "warps": "Warps",
-                "layers": "Layers",
-                "effects": "Effects",
-                "maps": "Maps",
-                "settings" : "Settings",
-                "playtest": "Playtest",
-                "save-quit": "Save & Quit"
+                "objects": "小物件",
+                "enemies": "敌人",
+                "warps": "传送设置",
+                "layers": "图层",
+                "effects": "特效",
+                "maps": "地图",
+                "settings" : "总设置",
+                "playtest": "关卡测试",
+                "save-quit": "保存并退出"
             },
             "sidebar": {
                 "mainBlocks": "General blocks",
