@@ -249,12 +249,12 @@
                 "level-settings": "关卡设置",
                 "map-settings": "地图设置",
                 "bg-settings": "背景设置",
-                "bgc-settings": "Background color settings",
-                "music-settings": "Music settings",
-                "level-desc": "Level description",
-                "level-stats": "Level statistics",
-                "toolbar-settings": "Toolbar settings",
-                "backup-settings": "Backup settings\n[scale=0.5](Applies to every level)[/scale]"
+                "bgc-settings": "背景颜色设置",
+                "music-settings": "音乐设置",
+                "level-desc": "关卡描述",
+                "level-stats": "关卡数据统计",
+                "toolbar-settings": "工具栏设置",
+                "backup-settings": "备份设置\n[scale=0.5](对每一关都适用)[/scale]"
             },
             "labels": {
                 "new-destination-name": "[scale=0.5]New destination[/scale]\n[scale=0.75]name:[/scale]",
@@ -840,30 +840,30 @@
         },
         "misc-labels": {
             "controls": {
-                "move-left": "Move left",
-                "move-right": "Move right",
-                "jump": "Jump",
-                "duck": "Duck",
-                "spinjump": "Spinjump",
-                "hold": "Hold item",
-                "run": "Run",
-                "use-power-up": "Use powerup",
-                "look-up": "Look up",
-                "inventory": "Inventory",
-                "pause": "Pause",
-                "toolbox": "Toolbox"
+                "move-left": "左移",
+                "move-right": "右移",
+                "jump": "跳跃",
+                "duck": "下蹲",
+                "spinjump": "旋转跳",
+                "hold": "擒拿敌人",
+                "run": "奔跑",
+                "use-power-up": "使用道具攻击",
+                "look-up": "向上看/进门",
+                "inventory": "调用存储栏",
+                "pause": "暂停",
+                "toolbox": "工具箱"
             },
             "toolbox": {
-                "camera": "Take screenshot",
-                "record": "Record",
-                "invincibility": "Invincibility",
-                "moonjump": "Moonjump",
-                "flashlight": "Fullbright",
-                "spyglass": "Spyglass",
-                "trail": "Player trail",
-                "clock": "Slow time",
-                "frameadvance": "Frame Advance",
-                "debug": "Debugger"
+                "camera": "截图",
+                "record": "录屏",
+                "invincibility": "无敌状态",
+                "moonjump": "多段跳",
+                "flashlight": "完整光源",
+                "spyglass": "透视镜",
+                "trail": "显示玩家轨迹",
+                "clock": "缓速",
+                "frameadvance": "逐帧分析",
+                "debug": "测试器"
             }
         }
     }
