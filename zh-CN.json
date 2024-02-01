@@ -154,23 +154,23 @@
                 "create-level": "新建关卡!"
             },
             "tooltips": {
-                "play": "Play",
-                "restore-points": "Restore points",
-                "open-editor": "Open level editor",
-                "view-code": "View code",
-                "delete": "Delete"
+                "play": "开始关卡",
+                "restore-points": "重置起始点位",
+                "open-editor": "打开关卡编辑器",
+                "view-code": "查看关卡代码",
+                "delete": "删除"
             },
             "html": {
-                "level-name-placeholder": "You can always change this later",
-                "level-size-presets": "Horizontal (no extra Y)|Horizontal (with Y-space)|Vertical|Metroidvania|One-screen",
-                "import-code-placeholder": "Paste your level code here, then press the LOAD button."
+                "level-name-placeholder": "您随时可以更改这些设置。",
+                "level-size-presets": "水平(x)方向 (无y方向延伸)|水平(x)方向 (有y方向延伸)|竖直(y)方向|条件推进(银河战士/恶魔城式)|单屏",
+                "import-code-placeholder": "请在此处粘贴关卡代码,然后点击导入按钮。"
             },
             "text": {
-                "gamestyle-notice": "Pick a style! In this game, each gamestyle aims to closely replicate the source material. Therefore gamestyles aren't compatible, so think about which one you'd like to use now.",
-                "theme-notice": "Now just choose on a theme and a name for your level!\nYou can change these later. Themes can be customized in-editor.",
-                "delete-warning": "Are you sure you want to delete this level?\nIn case you want to play or edit it again later, be sure to save the level code to your computer first.",
-                "code-notice": "You can share this level code with others, so they can play your level! It's also recommend to keep level codes stored as a back-up.",
-                "compact-notice": "Compact codes only contain all the data to construct your level, stripping out data stored for the level designers only.",
+                "gamestyle-notice": "选择一个关卡风格! 在此游戏中,游戏风格与所展示的物件相紧密关联,从而游戏风格之间是互不兼容的。因此请仔细思考。",
+                "theme-notice": "接着为您的关卡选择一个主题并命名！\n这些设置您可以稍后更改。可在编辑器中自由组合您的关卡主题。",
+                "delete-warning": "确认要删除此关卡吗?\n为了确保您还需要游玩或编辑此关卡,我们建议您在电脑中存储此关卡的备份代码。",
+                "code-notice": "您可以将关卡代码与他人分享,让朋友与您一同共享欢悦!同时我们建议您存储关卡代码以备不时之需。",
+                "compact-notice": "压缩代码仅保留您关卡的全部信息,除了仅为关卡设计师保存的数据。",
                 "production-notice": "The production code saves extra data that is handy during level designing, such as what items are in the favorites bar.",
                 "import-code-notice": "Paste a level code here, and the level will be saved within the game. It is still recommended to make regular backups of your level by saving the code on your device and/or on Level Share Square."
             }
