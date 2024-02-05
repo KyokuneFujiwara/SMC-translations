@@ -381,9 +381,9 @@
                 "tag-block": "撞击时改变特效标签的砖块",
                 "cheep-cheeps": "鱼类敌人\n[scale=0.75]鱼类敌人有很多种智能行动方式。将鼠标放置在它们上面以查看！[/scale]",
                 "stretch-tiles": "[scale=0.75]向下滑动鼠标滚轮寻找更多伸缩方块![/scale]",
-                "artillery-tiles": "额外的相关方块\n[scale=0.75]这些是[/scale]",
-                "king-bill": "King Bill\n[scale=0.75]This collosal Bullet Bill can break hard blocks on its way with ease, and is utterly undefeatable![/scale]",
-                "view-map-code": "This is the map code: it contains all data about your map. You can use this code to add an identical copy to another level, or to create a duplicate for the current level.",
+                "artillery-tiles": "额外的相关方块\n[scale=0.75]这些是自定义的方块，类似于之前的物件。[/scale]",
+                "king-bill": "巨型炮弹比尔\n[scale=0.75]这枚毁灭性的炮弹比尔会摧毁在它路径上的所有方块,而且几乎是无敌的![/scale]",
+                "view-map-code": "这里是地图代码:它涵盖了您地图的所有信息。您可以通过这段代码来, 或者创建一个当前关卡的副本。",
                 "import-map-code": "Insert a map code. Map codes can be obtained by pressing the Share icon on a map card."
             },
             "sprite-tooltips": {
