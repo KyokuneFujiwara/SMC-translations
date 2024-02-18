@@ -510,18 +510,18 @@
 				"bombshell-koopa-shell": "炸弹龟壳",
 				"bombshell-koopa-shell-moving": "移动的炸弹龟壳",
 				"bombshell-koopa-jumping": "跳跃的炸弹啪嗒龟",
-				"bombshell-koopa-flying": "Flying Bombshell Paratroopa",
-				"bombshell-koopa-flying-no-turn": "Flying Bombshell Paratroopa[s]Doesn't turn on their own",
-				"bombshell-koopa-flying-static": "Stationary Bombshell Paratroopa[s]Hovers in place",
-				"bombshell-koopa-shell-moving-detonating": "Bombshell[s]Already moving + detonating",
+				"bombshell-koopa-flying": "飞行的炸弹啪嗒龟",
+				"bombshell-koopa-flying-no-turn": "飞行的炸弹啪嗒龟(不会自动转向)",
+				"bombshell-koopa-flying-static": "静止的炸弹啪嗒龟",
+				"bombshell-koopa-shell-moving-detonating": "移动且被引爆的炸弹龟壳",
 				"kamikaze-shell": "旋风彩色诺库龟壳",
-				"spiny": "Spiny",
-				"spiny-shell": "Spiny Shell",
-				"spiny-shell-moving": "Spiny Shell[s]Already moving",
-				"spiny-ceiling": "Spiny on ceiling",
-				"spiny-shell-upsidedown": "Upside-down Spiny Shell",
-				"spiny-shell-upsidedown-moving": "Upside-down Spiny Shell[s]Already moving",
-				"buzzy-beetle": "Buzzy Beetle",
+				"spiny": "刺龟",
+				"spiny-shell": "刺龟壳",
+				"spiny-shell-moving": "移动的刺龟壳",
+				"spiny-ceiling": "天花板上的刺龟壳",
+				"spiny-shell-upsidedown": "上下颠倒的刺龟壳",
+				"spiny-shell-upsidedown-moving": "上下颠倒的刺龟壳(移动)",
+				"buzzy-beetle": "硬甲龟",
 				"buzzy-beetle-shell": "Buzzy Beetle Shell",
 				"buzzy-beetle-shell-moving": "Buzzy Beetle Shell[s]Already moving",
 				"buzzy-beetle-ceiling": "Buzzy Beetle on ceiling",
@@ -819,8 +819,8 @@
                 "2_sand": "Default Sandstorm|Sunny Yellow|Snowy White|Chocolate Brown|Swampy Sludge|Midnight Violet",
                 "1_embers": "Default Embers",
                 "2_embers": "Default Embers|Murky Black|Venomous Purple|Void Substance|Inky Blue|Royal Gold",
-                "1_leaf": "Default Green",
-                "2_leaf": "Default Green|Default Autumn|Outrageous Leafage|Illusionary Grey|Chrunchy Chocolate|Funky Purple|Ashy Brush|Garish Grey|Murky Swamp|Golden Delight|Winter's Early|Crispy Cocoa|Serene Sunset"
+                "1_leaf": "经典纯绿",
+                "2_leaf": "经典纯绿|经典秋意|Outrageous Leafage|幻想天使灰|美味巧克力|忧郁之紫|Ashy Brush|缭乱之灰|Murky Swamp|欢愉之金|早到之冬|生脆可可|宁静日落"
             }
         },
         "screen-menus": {
@@ -830,7 +830,7 @@
                 "download": "Download restore point\nlevel code",
                 "header": "In this menu, you can restore or download a backup of a past version of your level.",
 				"none-found": "There are no restore points yet for this level.\nWhen you work on your level, restore points will be automatically made over time.",
-				"confirm-prompt": "Restore from this date?"
+				"confirm-prompt": "恢复至该日期节点？"
             },
             "startpoint-missing": {
                 "message-edit": "客官稍等~这关此时还没有起始点！这可能是原有的起始点被删除的缘故。\n\n请问需要设置一个新的起始点吗?",
